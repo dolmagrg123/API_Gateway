@@ -3,7 +3,7 @@
 ## Serverless
 
 ### Benefits:
-- NO server management
+- No server management
 - Flexible Scaling
 - Pay for Value
 - Automated high Availability
